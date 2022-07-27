@@ -1,0 +1,41 @@
+<?xml version= "1.0" encoding="UTF-8"?>
+<Consolas>
+    <Consola Nombre="Playstation 5">
+        <Desarrolladora>Sony</Desarrolladora>
+        <Modelo>Estandar y Digital</Modelo>
+        <Tipo>Consola de sobremesa</Tipo>
+        <Generacion>Novena</Generacion>
+        <ano>2020</ano>
+        <cpu>Procesador de 8 núcleos a hasta 3,5 GHz</cpu>
+        <gpu>Procesador gráfico personalizado con 36 unidades de cálculo a hasta 2,23 GHz</gpu>
+        <Memoria>16 GB GDDR6 con bus de 256 bits con ancho de banda de 16 GB a 448 GB/s</Memoria>
+        <Almacenamiento>Unidad SSD personalizada de 825 GB</Almacenamiento>
+        <UnidadOptica>Lector de Blu-ray 4K</UnidadOptica>
+        <Peso>4,5 kg</Peso>
+    </Consola>
+    <Consola Nombre="Xbox X Series">
+        <Desarrolladora>Microsoft</Desarrolladora>
+        <Modelo>Estandar</Modelo>
+        <Tipo>Consola de sobremesa</Tipo>
+        <Generacion>Novena</Generacion>
+        <ano>2020</ano>
+        <cpu>Procesador de 8 núcleos a 3,8 GHz personalizado</cpu>
+        <gpu>Procesador gráfico personalizado con 52 unidades de cálculo a 1,825 GHz</gpu>
+        <Memoria>16 GB GDDR6 con bus de 320 bits con ancho de banda de 10 GB a 560 GB/s y 6 GB a 336 GB/s</Memoria>
+        <Almacenamiento>Unidad SSD personalizada de 1 TB con interfaz NVMe</Almacenamiento>
+        <UnidadOptica>Lector de Blu-ray 4K</UnidadOptica>
+        <Peso>4,44 kg</Peso>
+    </Consola>
+    <Consola Nombre="Nintendo Switch">
+        <Desarrolladora>Nintendo</Desarrolladora>
+        <Modelo>Estandar</Modelo>
+        <Tipo>Híbrida</Tipo>
+        <Generacion>Octava</Generacion>
+        <ano>2017</ano>
+        <cpu_gpu>Procesador NVIDIA Custom Tegra</cpu_gpu>
+        <Pantalla>Multitáctil capacitiva de 6.2 pulgadas (15.75 cm) con una resolución de 1280 x 720</Pantalla>
+        <Almacenamiento>32 GB de memoria interna, una porción se reserva para los requerimientos del sistema</Almacenamiento>
+        <Tamano>Aproximadamente 4 pulgadas (10.16 cm) de alto, 9.4 pulgadas (23.88 cm) de ancho y 0.55 pulgadas (1.4 cm) de largo (con los controles Joy-Con acoplados)</Tamano>
+        <Peso>Aproximadamente 0.88 libras (399 g) cuando los controles Joy-Con están acoplados</Peso>
+    </Consola>
+</Consolas>
